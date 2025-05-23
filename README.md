@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Oseaghe
-- 👀 I’m interested in Data Science and Analytics
+- 👀 I’m interested in Software and web Development
 - 🌱 I’m currently learning Covenant University
-- 💞️ I’m looking to collaborate on more insightful data
+- 💞️ I’m looking to collaborate on more insightful websites
 - 📫 How to reach me oseagheebhomielen@gmail.com
 - 😄 Pronouns: All/We
 - ⚡ Fun fact: I dream about codes
